@@ -8,14 +8,14 @@
 
 <br>
 
-## hey 👋
+## sit down, be humble.
 
 I build systems, train models, create visuals, and spend way too much time figuring out how things work.
 
 **Currently interested in:**
 
-🧠 Artificial Intelligence & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp;🖥️ Operating Systems&nbsp;&nbsp;•&nbsp;&nbsp;📡 Digital Signal Processing
-👁️ Computer Vision&nbsp;&nbsp;•&nbsp;&nbsp;⚙️ Low-Level Programming&nbsp;&nbsp;•&nbsp;&nbsp;🎬 3D Design & Animation&nbsp;&nbsp;•&nbsp;&nbsp;🎞️ Video Production & Color Grading
+ Artificial Intelligence & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp;🖥️ Operating Systems&nbsp;&nbsp;•&nbsp;&nbsp;📡 Digital Signal Processing
+ Computer Vision&nbsp;&nbsp;•&nbsp;&nbsp;⚙️ Low-Level Programming&nbsp;&nbsp;•&nbsp;&nbsp;🎬 3D Design & Animation&nbsp;&nbsp;•&nbsp;&nbsp;🎞️ Video Production & Color Grading
 
 <br>
 
