@@ -8,7 +8,7 @@
 
 <br>
 
-## sit down, be humble.
+## Sit down, Be Humble.
 
 I build systems, train models, create visuals, and spend way too much time figuring out how things work.
 
