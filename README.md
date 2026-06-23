@@ -20,27 +20,6 @@ ECE Student • AI/ML • Systems • Signal Processing • 3D Design
 
 ---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeyshant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-
-</td>
-<td valign="top" width="50%">
-
-### Neeyshant's GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=neeyshant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### "the work speaks."
